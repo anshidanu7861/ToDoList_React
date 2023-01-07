@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body {
-    background-image: linear-gradient(120deg, #73f796 0%, #adf3fb 100%);
+    background-image: linear-gradient(120deg, #e0bf1b 0%, #63eded 100%);
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
@@ -67,7 +67,7 @@
   
   .trash-btn,
   .complete-btn {
-    background: #ff6f47;
+    background: #f62428;
     color: white;
     border: none;
     padding: 1rem;
@@ -127,7 +127,7 @@
     top: 0;
     right: 0;
     padding: 1rem;
-    background: #ff6f47;
+    background: #dc72de;
     cursor: pointer;
     pointer-events: none;
   }

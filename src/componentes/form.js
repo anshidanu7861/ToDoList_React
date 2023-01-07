@@ -19,7 +19,7 @@ const Form = ({ setInputText, todos, setTodos, inputText, setStatus })=>{
     console.log(e.target.value);
     setStatus(e.target.value)
   }
-
+  
     return (
         <form>
         <input value={inputText} onChange={inputTextHandler} type="text" className="todo-input" />
